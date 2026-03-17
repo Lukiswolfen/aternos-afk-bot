@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Lukisdudis",
-    "password": "Lukisen123!",
+    "username": "AFK Bot",
+    "password": "",
     "type": "mojang"
   },
   "server": {
     "ip": "ItzrealWibbott.aternos.me",
-    "port": 51933,
-    "version": "1.21.11"
+    "port": 25565,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": true,
